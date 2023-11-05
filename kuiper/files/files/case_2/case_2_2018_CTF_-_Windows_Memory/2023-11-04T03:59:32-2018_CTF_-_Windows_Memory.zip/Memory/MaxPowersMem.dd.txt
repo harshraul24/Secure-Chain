@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 3.4.2.6 
+
+Case Information: 
+Acquired using: ADI3.4.2.6
+Case Number: MUS CTF
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for D:\Images\MUS CTF\MaxPowersMem.dd:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Verification Hashes]
+ MD5 verification hash: 2d11be124495baa2c44adba4823000aa
+ SHA1 verification hash: 0000000000000000000000000000000000000000
+[Drive Geometry]
+ Bytes per Sector: 4,096
+ Sector Count: 1,310,720
+[Image]
+ Image Type: E01
+ Case number: MaxPowers-1
+ Evidence number: 2
+ Examiner: Professor Frink
+ Notes: Imaged with f-response
+ Acquired on OS: 
+ Acquired using: 7.0.4.4
+ Acquire date: 5/5/2018 4:40:03 AM
+ System date: 5/5/2018 4:40:03 AM
+ Unique description: Memory of Max Powers
+ Source data size: 5120 MB
+ Sector count:    1310720
+[Computed Hashes]
+ MD5 checksum:    2d11be124495baa2c44adba4823000aa
+ SHA1 checksum:   02a5f3dc81d8c5e92c1672102beee202103dc766
+
+Image Information:
+ Acquisition started:   Sat May 12 07:24:56 2018
+ Acquisition finished:  Sat May 12 07:25:31 2018
+ Segment list:
+  D:\Images\MUS CTF\MaxPowersMem.dd.dd4.001
