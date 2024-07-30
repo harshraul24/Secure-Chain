@@ -4,8 +4,8 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import time
 
-access_key_id = 'AKIAUCDYYBIBP7PDADVA'
-secret_access_key = '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'
+access_key_id = ''
+secret_access_key = ''
 
 
 bucket_name = 'forensicks'
